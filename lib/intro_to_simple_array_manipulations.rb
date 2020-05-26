@@ -1,4 +1,3 @@
-artists = ["Hozier", "Ariana Grande", "Usher"]
-next_artist = "Beyonce"
-artists.push(next_artist)
-puts artists
+def using_push(array, string)
+  array.push(string)
+end
